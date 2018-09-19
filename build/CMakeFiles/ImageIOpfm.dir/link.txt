@@ -1,0 +1,2 @@
+/usr/bin/ar qc libImageIOpfm.a  CMakeFiles/ImageIOpfm.dir/ImageIOpfm.o
+/usr/bin/ranlib libImageIOpfm.a

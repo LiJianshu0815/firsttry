@@ -1,0 +1,6 @@
+project(ImageFproc)
+find_package(OpenCV REQUIRED)
+include_directories("/usr/include/eigen3/")
+add_library(ImageIOpfm ImageIOpfm.cpp)
+add_executable(main main.cpp)
+target_link_libraries(main ImageIOpfm  ${OpenCV_LIBS})

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ljszyx/land_base/ImageIOpfm.cpp
+ImageIOpfm.h
+/home/ljszyx/land_base/ImageIOpfm.h
+opencv2/opencv.hpp
+/home/ljszyx/land_base/opencv2/opencv.hpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+iomanip
+-
+cmath
+-
+
+/home/ljszyx/land_base/ImageIOpfm.h
+opencv2/opencv.hpp
+/home/ljszyx/land_base/opencv2/opencv.hpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+iomanip
+-
+cmath
+-
+

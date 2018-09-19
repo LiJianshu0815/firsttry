@@ -1,0 +1,4 @@
+/home/ljszyx/land_base/build/CMakeFiles/rebuild_cache.dir
+/home/ljszyx/land_base/build/CMakeFiles/edit_cache.dir
+/home/ljszyx/land_base/build/CMakeFiles/main.dir
+/home/ljszyx/land_base/build/CMakeFiles/ImageIOpfm.dir
