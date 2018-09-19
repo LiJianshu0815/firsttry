@@ -11,6 +11,8 @@
 #define CIRCLR_ERR 3
 #define R 1.5
 
+//amy
+
 cv::Mat K( cv::Matx33f(268.5119, 0, 320,
 						 0, 268.5119, 240,
 						 0, 0, 1) );
